@@ -1,8 +1,5 @@
 hello liruobai hello git
 111111223221
-<<<<<<< HEAD
 111111
 111111111111
-=======
 111111 hot-fix
->>>>>>> hot-fix
